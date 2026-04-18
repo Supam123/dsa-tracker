@@ -2,6 +2,8 @@
 
 A fully free, local-first Spaced Repetition System (SRS) for tracking your Data Structures and Algorithms prep.
 
+**🚀 [Start Using the Live Tracker Here](https://dsa-tracker-one-theta.vercel.app/)**
+
 ## The Story
 
 I was originally using a website called [dsaprep.dev/tracker](https://www.dsaprep.dev/tracker) to track my LeetCode progress using spaced repetition. It was great, right up until I hit 50 problems. At that point, I hit a paywall.
