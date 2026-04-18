@@ -10,7 +10,9 @@ I hated that. I didn't want to pay a monthly subscription just for tracking my s
 
 **Learning should be accessible.**
 
-So, I built my own version. It has the exact same functionality, the exact same spaced-repetition tracking, but completely free and open-source. Your data lives in your browser's local storage, meaning you own it forever. No subscriptions, no limits, no paywalls.
+So, I built my own version. I wanted to spin up an app quickly that was a tracker at its core—no bloated backend, no complex databases, and no forced account creation. I didn't care about building out a dedicated cloud sync storage. I just needed it to work. 
+
+The result? It has the exact same functionality and spaced-repetition tracking, but completely free and open-source. By using your browser's local storage, the app is ridiculously fast, 100% private, and you own your data forever. No subscriptions, no limits, no paywalls.
 
 ## Features
 
